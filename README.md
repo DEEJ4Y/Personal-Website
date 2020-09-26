@@ -1,3 +1,3 @@
 # CV
 
-[My Personal Website](https://davidjosephind.github.io/CV/)
+[My Personal Website](https://davidjosephind.github.io/CV/index.html)
