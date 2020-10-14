@@ -1,6 +1,6 @@
 # HTML-Personal Website
 
-This website was my first project as part of [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
+[This website](https://davidjosephind.github.io/HTML-Personal-Website/) was my first project as part of [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 
 The website was made entirely out of HTML and very little inline CSS.
 
