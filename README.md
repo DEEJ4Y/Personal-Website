@@ -1,10 +1,6 @@
 # Personal Website
 
-[This website](https://davidjosephind.github.io/Personal-Website/) was my first project as part of [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
-
-The website was made entirely out of HTML and very little inline and external CSS.
-
-This project is representative of the HTML I learnt in the 'Introduction to HTML' and 'Intermediate HTML' modules in the course.
+[This website](https://davidjosephind.github.io/Personal-Website/) was my first project as part of [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/). The website was made entirely out of HTML and very little inline and external CSS. This project is representative of the HTML I learnt in the 'Introduction to HTML' and 'Intermediate HTML' modules in the course.
 
 The goal of this project was to be able to understand and use HTML to structure websites in the best way possible.
 
