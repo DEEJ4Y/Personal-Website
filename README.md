@@ -6,4 +6,4 @@ The website was made entirely out of HTML and very little inline and external CS
 
 This project is representative of the HTML I learnt in the 'Introduction to HTML' and 'Intermediate HTML' modules in the course.
 
-![Site Image](https://raw.githubusercontent.com/davidjosephind/HTML-PersonalWebsite/master/Site%20Image.jpg)
+![Main Site Image](https://raw.githubusercontent.com/davidjosephind/HTML-PersonalWebsite/master/Site%20Image.jpg)
