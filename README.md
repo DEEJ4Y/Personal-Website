@@ -4,7 +4,7 @@
 
 The goal of this project was to be able to understand and use HTML to structure websites in the best way possible.
 
-### What I learnt
+## What I learnt
 
 - Anatomy of HTML tags
 - HTML boilerplate
