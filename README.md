@@ -17,7 +17,3 @@ The goal of this project was to be able to understand and use HTML to structure 
 - Using utf-8 encoded symbols in websites
 - Forms in HTML
 - Using github pages to host websites for projects
-
-Below is an image of the home page of the website I created.
-
-![Main Site Image](https://raw.githubusercontent.com/davidjosephind/HTML-PersonalWebsite/master/Site%20Image.jpg)
